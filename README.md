@@ -4,7 +4,7 @@ At Google, there was a document put together by [Jeff Dean](https://en.wikipedia
 
 ## Notes on the Github version
 
-Last updates: 2025-11-07
+Last updates: 2025-11-10
 
 If you feel there's an issue with the accuracy of the numbers, please file an issue. Think there are more numbers that should be in this doc? Let us know or file a PR. 
 
@@ -103,7 +103,7 @@ The amount of memory you need is directly proportional to the maximum number of 
 
 # Cheatsheet
 
-<img width="1097" alt="Screenshot 2025-11-07 at 1 46 09 PM" src="https://github.com/ray-project/llm-numbers/assets/9677264/5d40c6a3-84d7-436a-8fc4-a8d58008765d">
+<img width="1097" alt="Screenshot 2025-11-10 at 1 46 09 PM" src="https://github.com/ray-project/llm-numbers/assets/9677264/5d40c6a3-84d7-436a-8fc4-a8d58008765d">
 
 # Next Steps
 
@@ -121,10 +121,10 @@ If you are interested in our Ray hosted service for ML Training and Serving, see
 ## Notes
 
 [^1]:
-     Based on experimentation with GPT-3.5-Turbo using a suite of prompts on 2025-11-07. 
+     Based on experimentation with GPT-3.5-Turbo using a suite of prompts on 2025-11-10. 
 
 [^2]:
-     Retrieved from [http://openai.com/pricing](http://openai.com/pricing) on 2025-11-07. 
+     Retrieved from [http://openai.com/pricing](http://openai.com/pricing) on 2025-11-10. 
 
 [^3]:
       **GPT-4**: 6c/1k tokens for the prompt, 12c/1k tokens for the generation (32,000 window version, 8,000 window version is half that). **GPT-3.5 Turbo**: 0.2c/1k tokens. 
